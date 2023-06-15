@@ -1,4 +1,4 @@
-module example.com/repo2
+module github.com/piyush1104/repo2
 
 go 1.20
 
