@@ -1,10 +1,12 @@
 package client
 
 import (
-	interfaces "example.com/interfaces"
+	"fmt"
+
+	"github.com/piyush1104/interfaces"
 )
 
 func GetApp() {
 	// get data and return app
-	return interfaces.App{ID: "hello"}
+	fmt.Println(interfaces.App{ID: "hello"})
 }

@@ -1,9 +1,10 @@
 package server
 
 import (
-	interfaces "example.com/interfaces"
-	util "example.com/repo3"
 	"fmt"
+
+	"github.com/piyush1104/interfaces"
+	util "github.com/piyush1104/repo3"
 )
 
 func main() {
