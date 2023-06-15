@@ -1,4 +1,4 @@
-module github.com/piyush1104/repo3/client
+module github.com/piyush1104/repo3/clientcheck
 
 go 1.20
 
