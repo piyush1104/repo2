@@ -3,10 +3,10 @@ package client
 import (
 	"fmt"
 
-	"github.com/piyush1104/repo2"
+	"github.com/piyush1104/repo2/pkg"
 )
 
 func GetApp() {
 	// get data and return app
-	fmt.Println(repo2.App{ID: "hello"})
+	fmt.Println(pkg.App{ID: "hello"})
 }
