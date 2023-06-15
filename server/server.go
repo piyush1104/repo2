@@ -11,3 +11,8 @@ func main() {
 	x := interfaces.App{ID: util.GetID()}
 	fmt.Println(x)
 }
+
+func GetApp() {
+	x := interfaces.App{ID: util.GetID()}
+	fmt.Println(x)
+}
